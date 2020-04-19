@@ -1,0 +1,53 @@
+<%- include("header"); -%>
+
+
+    <div class="tekst-contact">
+      <h2>Museum van de straat</h2>
+      <p>Museum van de straat is een digitale extensie van het fysieke street art museum Urban Spree. Kom Urban Spree fysiek bezoeken in Berlijn.
+      <br>
+      Revaler Strasse 99 – 10245 Berlin
+      </p>
+    </div>
+
+    <div id="map" class="map"></div>
+
+
+    <div class="container">
+      <h2>Neem contact met ons op</h2>
+      <h3>en we komen zo snel mogelijk op je terug.</h3>
+       <form action="">
+
+         <label for="voornaam">Voornaam</label>
+         <input type="text" id="voornaam" name="voornaam" placeholder="je voornaam">
+
+         <label for="achternaam">Achternaam</label>
+         <input type="text" id="achternaam" name="achternaam" placeholder="je achternaam">
+
+         <label for="email">E-mailadres</label>
+         <input type="text" id="email" name="email" placeholder="je e-mailadres">
+
+         <label for="optie">Waarvoor heb je ons nodig?</label>
+         <select id="country" name="country">
+           <option value="video">Copyright issues</option>
+           <option value="grafisch">Features</option>
+           <option value="fotografie">Sponsored</option>
+           <option value="algemeen">Tekst- of titelcorrectie</option>
+         </select>
+
+         <label for="je tekst"></label>
+         <textarea id="onderwerp" name="onderwerp" placeholder="Jouw tekst..." style="height:200px"></textarea>
+
+         <input id="submit" type="submit" value="Submit">
+
+       </form>
+  </div>
+
+
+  <!-- <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"
+  integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="
+  crossorigin=""></script> -->
+
+  <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"></script>
+  <script src="/js/scriptmap.js"></script>
+
+<%- include("footer"); -%>

@@ -1,0 +1,179 @@
+{
+  "kunstwerk": [
+    {
+    "title": "Mural Valencia",
+    "author": "Felipe Pantone",
+    "year": 2019,
+    "location": "Valencia",
+    "tags": ["europa"],
+    "imageURL": "/img/felipepantone-1-val.jpg"
+  },
+  {
+  "title": "Cruiseship",
+  "author": "1UP",
+  "year": 2019,
+  "location": "Athene",
+  "tags": ["europa"],
+  "imageURL": "/img/1up-1-athene.jpg"
+  },
+  {
+  "title": "Mural Buffalo",
+  "author": "Felipe Pantone",
+  "year": 2018,
+  "tags": ["noord-amerika"],
+  "imageURL": "/img/felipepantone-2-buffalo.jpg"
+  },
+  {
+  "title": "Yugoo",
+  "author": "Vexx",
+  "year": 2017,
+  "location": "Gent",
+  "tags": ["europa"],
+  "imageURL": "/img/vexx-2-gent.jpg"
+  },
+  {
+  "title": "Happy Face",
+  "author": "1UP",
+  "year": 2018,
+  "location": "Berlijn",
+  "tags": ["europa"],
+  "imageURL": "/img/1up-3-berlijn.jpg"
+  },
+  {
+  "title": "FUCK",
+  "author": "Maya Hayuk",
+  "year": 2018,
+  "location": "Los Angeles",
+  "tags": ["noord-amerika"],
+  "imageURL": "/img/mayahayuk-2-la.jpg"
+  },
+  {
+  "title": "Equality",
+  "author": "1UP",
+  "year": 2017,
+  "location": "Berlijn",
+  "tags": ["europa"],
+  "imageURL": "/img/1up-2-berlijn.jpg"
+  },
+  {
+  "title": "Tiger & Doodles",
+  "author": "Vexx",
+  "year": 2019,
+  "location": "Los Angeles",
+  "tags": ["noord-amerika"],
+  "imageURL": "/img/vexx-1-la.jpg"
+  },
+  {
+  "title": "Bubbly Letters",
+  "author": "Soklak",
+  "year": 2019,
+  "location": "Parijs",
+  "tags": ["europa"],
+  "imageURL": "/img/soklak-2-parijs.jpg"
+  },
+  {
+  "title": "Boon Festival",
+  "author": "10 Hundred",
+  "year": 2020,
+  "location": "Hamilton",
+  "tags": ["noord-amerika"],
+  "imageURL": "/img/tenhun-1-hamilton.jpg"
+  },
+  {
+  "title": "Birds of Prey",
+  "author": "Frida Stiil Vium",
+  "year": 2017,
+  "location": "Praag",
+  "tags": ["europa"],
+  "imageURL": "/img/frida-2-praag.jpg"
+  },
+
+  {
+  "title": "Vitry",
+  "author": "Tacos One",
+  "year": 2020,
+  "location": "Beijing",
+  "tags": ["azie"],
+  "imageURL": "/img/tacosone-1-beijing.jpg"
+  },
+  {
+  "title": "Acker",
+  "author": "Mr. Acker",
+  "year": 2019,
+  "location": "Palermo",
+  "tags": ["europa"],
+  "imageURL": "/img/acker-1-pal.jpg"
+  },
+  {
+  "title": "Mural Brasil",
+  "author": "Raws",
+  "year": 2020,
+  "location": "Brasil",
+  "tags": ["zuid-amerika"],
+  "imageURL": "/img/raws-1-bras.jpg"
+  },
+  {
+  "title": "Glow",
+  "author": "Soklak",
+  "year": 2019,
+  "location": "Barcelona",
+  "tags": ["europa"],
+  "imageURL": "/img/soklak-1-barca.jpg"
+  },
+  {
+  "title": "Bevel Tacos",
+  "author": "Tacos One",
+  "year": 2019,
+  "location": "Parijs",
+  "tags": ["europa"],
+  "imageURL": "/img/tacosone-2-parijs.jpg"
+  },
+  {
+  "title": "Neo Graffism",
+  "author": "Raws",
+  "year": 2019,
+  "location": "Berlijn",
+  "tags": ["europa"],
+  "imageURL": "/img/raws-3-berl.jpg"
+  },
+  {
+  "title": "Split",
+  "author": "Frida Stiil Vium",
+  "year": 2018,
+  "location": "Roskilde",
+  "tags": ["europa"],
+  "imageURL": "/img/frida-1-rosk.jpg"
+  },
+  {
+  "title": "Collab",
+  "author": "10 Hundred",
+  "year": 2019,
+  "location": "Londen",
+  "tags": ["europa"],
+  "imageURL": "/img/tenhun-2-londen.jpg"
+  },
+  {
+  "title": "Raws",
+  "author": "Raws",
+  "year": 2017,
+  "location": "Roskilde",
+  "tags": ["europa"],
+  "imageURL": "/img/raws-2-rosk.jpg"
+  },
+  {
+  "title": "All Around",
+  "author": "Maya Hayuk",
+  "year": 2016,
+  "location": "Brussel",
+  "tags": ["europa"],
+  "imageURL": "/img/mayahayuk-1-bruss.jpg"
+  },
+  {
+  "title": "CMYK",
+  "author": "Mr. Acker",
+  "year": 2019,
+  "location": "Palermo",
+  "tags": ["europa"],
+  "imageURL": "/img/acker-2-pal.jpg"
+  }]
+}

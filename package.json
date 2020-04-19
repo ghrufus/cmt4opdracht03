@@ -1,0 +1,24 @@
+{
+  "name": "opdr01portfolio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rufusgheysen",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.0.2",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ikzennezotte/opdracht03-v2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ikzennezotte/opdracht03-v2/issues"
+  },
+  "homepage": "https://github.com/ikzennezotte/opdracht03-v2#readme",
+  "description": ""
+}

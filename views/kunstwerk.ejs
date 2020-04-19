@@ -1,0 +1,22 @@
+<%- include("header"); -%>
+
+<div class="button-group filters-button-group">
+    <button class="button is-checked" data-filter="*" >Alle locaties</button>
+    <button class="button" data-filter=".europa" >Europa</button>
+    <button class="button" data-filter=".noord-amerika" >Noord Amerika</button>
+    <button class="button" data-filter=".azie" >Azië</button>
+    <button class="button" data-filter=".zuid-amerika" >Zuid Amerika</button>
+</div>
+
+<div class="grid">
+  <% for (let i=0; i < posts.length; i++) { %>
+    <section>
+        <%- include('kunstwerkpost', {post: posts[i], index: i}); -%>
+    </section>
+  <% } %>
+</div>
+
+<script src="https://npmcdn.com/isotope-layout@3/dist/isotope.pkgd.js"></script>
+<script src="/js/script.js"></script>
+
+<%- include("footer"); -%>

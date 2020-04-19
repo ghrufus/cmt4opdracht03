@@ -1,0 +1,113 @@
+body {
+  background-color: white;
+  color: black;
+  font-family: sans-serif;
+}
+
+header {
+  display: flex;
+  flex-direction: row;
+  width: 70vw;
+  margin: 0 auto;
+  justify-content: space-between;
+}
+
+nav {
+  width: 70vw;
+  margin-top: 2vh;
+}
+
+nav ul {
+  display: flex; flex-direction: row; justify-content: space-between; list-style: none; text-decoration: underline;
+}
+nav ul li a:hover {
+  color: lightblue;
+}
+
+main {
+  width: 70vw;
+  margin: 0 auto;
+}
+
+h2 {
+  color: magenta;
+  font-family: sans-serif;
+}
+
+a {
+  color: magenta;
+  text-decoration: none;
+}
+
+main h4 {margin-bottom: 1vh;}
+main p {margin-bottom: 3.5vh;}
+main p a {color: magenta;}
+main p a:hover {color: lightblue;}
+
+main {overflow: hidden;}
+
+.uitgelicht {
+  padding: 1rem;
+  background-color: magenta;
+}
+
+.uitgelicht h4 {margin-top: 0;}
+
+.kleiner {
+  font-size: 1vh;
+}
+
+.button-group {
+  width: 80vw;
+  margin: 3vh auto 0;
+}
+
+button {
+  width: 15vw;
+  font-size: 1vh;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-gap: 2vw;
+  width: 70vw;
+  margin: 0 auto;
+}
+
+article {
+  width: 100%;
+  height: 100%;
+  margin: 2vh auto;
+  border-bottom: 2px solid magenta;
+}
+
+.tekst-contact, .container {
+  width: 80vw;
+  margin: 0 auto;
+}
+
+.map {
+  height: 40vh;
+  width: 80vw;
+  margin: 1vh auto;
+}
+
+
+
+
+
+form {
+  display: flex;
+  flex-direction: column;
+  width: 70vw;
+  margin: 3vh auto;
+}
+
+label {
+  margin: 2vh 0 .5vh;
+}
+
+#submit {width: 50%; padding: 1.75vh; margin: 3vh auto; background-color: magenta;}
+
+footer {height: 8vh; padding: 2vh;}
